@@ -139,6 +139,24 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
+.adventure {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+}
+
+.city-tour {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+}
+
+.sea-tour {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
